@@ -17,8 +17,8 @@ parser.add_argument('--path_of_chrome_driver', type=str, default=r'C:\Users\4243
 parser.add_argument('--uid', type=str, default='199e4c4d27b84b7097fec77a22b2a68a')
 # Modify the Following
 parser.add_argument('--saved_path', type=str, default=r'C:\Users\42436\Desktop\project\yys_crawler\20241111')
-parser.add_argument('--timestamp', type=str, default='1731400307849')
-parser.add_argument('--token', type=str, default='B19BA3A45512DDE3C5A078DEB76A8949')
+parser.add_argument('--timestamp', type=str, default='1731403950267')
+parser.add_argument('--token', type=str, default='69C806C7A88BBF5164240FC969D12C02')
 
 # Load Configuration
 args = parser.parse_known_args()[0]
@@ -36,6 +36,11 @@ if __name__ == '__main__':
     parser = FileParser()
     log = Log(args.saved_path)
 
+    # Update Config Files
+    url2content(wd, args.server_url, 99, -64, 'files/server.json')
+    # url2content(wd, args.shishen_url, 99, -64, 'files/shishen.json')
+    # url2content(wd, args.yuhun_url, 99, -64, 'files/yuhun.json')
+
     server_list = sorted(parser.server_dict.keys())
     for server_id in server_list[log.start_from:]:
         server_name = parser.server_dict[server_id]['name']
@@ -44,10 +49,10 @@ if __name__ == '__main__':
             os.mkdir(saved_path)
         for page in tqdm(range(1, 11)):
             server_url = f'https://a19-v3-bigdata.gameyw.netease.com/a19-bigdata/ky59/v1/g37_charts/topuids?server={server_id}&page={page}&uid={args.uid}&timestamp={args.timestamp}&token={args.token}'
-            role_list = parser.ParseServer(url2content(wd, server_url))
+            role_list = parser.ParseServer(url2content(wd, server_url, 25, -14))
             for rank, role_id in enumerate(role_list):
                 user_url = f'https://a19-v3-bigdata.gameyw.netease.com/a19-bigdata/ky59/v1/g37_charts/oneuid?server={server_id}&roleid={role_id}&uid={args.uid}&timestamp={args.timestamp}&token={args.token}'
-                url2content(wd, user_url, os.path.join(saved_path, f'{server_id}_{(page - 1) * 10 + rank + 1}.json'))
+                url2content(wd, user_url, 25, -14, os.path.join(saved_path, f'{server_id}_{(page - 1) * 10 + rank + 1}.json'))
         number = parser.ParseUser(saved_path, os.path.join(args.saved_path, f'{server_id}_{server_name}.xls'))
         # Write Log
-        log.WriteLog('%s %s %d\n' % (server_id, server_name, number))
+        log.WriteLog(f'{server_id} {server_name} {number}\n')

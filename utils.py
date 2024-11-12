@@ -142,18 +142,16 @@ class Log(object):
             f.write(log_info)
 
 
-def url2content(wd, url, save_address=None):
+def url2content(wd, url, start_position=0, end_position=-1, save_address=None):
     wd.get(url)
     content = wd.page_source
     try:
-        content = eval(content[25: -14])
+        content = eval(content[start_position: end_position])
     except:
         content = re.compile(' null,').sub(' None,', content)
-        content = eval(content[25: -14])
+        # content = eval(content[25: -14])
+        content = eval(content[start_position: end_position])
     if save_address is not None:
         with open(save_address, 'w') as f:
             json.dump(content, f)
     return content
-
-if __name__ == '__main__':
-    pass
