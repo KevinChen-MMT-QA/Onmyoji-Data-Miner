@@ -1,0 +1,856 @@
+{
+     "10001": {
+          "num": "10001",
+          "name": "春之樱",
+          "icon": "https://g.166.net/assets/img/yys/serve/10001.png",
+          "server_region": "中国区-iOS",
+          "server_type": "iOS正式服1"
+     },
+     "10002": {
+          "num": "10002",
+          "name": "夏之蝉",
+          "icon": "https://g.166.net/assets/img/yys/serve/10002.png",
+          "server_region": "中国区-iOS",
+          "server_type": "iOS正式服2"
+     },
+     "10003": {
+          "num": "10003",
+          "name": "夜之月",
+          "icon": "https://g.166.net/assets/img/yys/serve/10003.png",
+          "server_region": "中国区-iOS",
+          "server_type": "iOS正式服3"
+     },
+     "10004": {
+          "num": "10004",
+          "name": "网易-携手同心",
+          "icon": "https://g.166.net/assets/img/yys/serve/10004.png",
+          "server_region": "网易-双平台",
+          "server_type": "网易-双平台"
+     },
+     "10005": {
+          "num": "10005",
+          "name": "竹之幽",
+          "icon": "https://g.166.net/assets/img/yys/serve/10005.png",
+          "server_region": "中国区-iOS",
+          "server_type": "iOS正式服4"
+     },
+     "10006": {
+          "num": "10006",
+          "name": "松之苍",
+          "icon": "https://g.166.net/assets/img/yys/serve/10006.png",
+          "server_region": "中国区-iOS",
+          "server_type": "iOS正式服5"
+     },
+     "10007": {
+          "num": "10009",
+          "name": "兰之雅",
+          "icon": "https://g.166.net/assets/img/yys/serve/10007.png",
+          "server_region": "中国区-iOS",
+          "server_type": ""
+     },
+     "10008": {
+          "num": "10009",
+          "name": "雀之羽",
+          "icon": "https://g.166.net/assets/img/yys/serve/10008.png",
+          "server_region": "中国区-iOS",
+          "server_type": ""
+     },
+     "10009": {
+          "num": "10009",
+          "name": "云之遏",
+          "icon": "https://g.166.net/assets/img/yys/serve/10009.png",
+          "server_region": "中国区-iOS",
+          "server_type": "iOS正式服8"
+     },
+     "10012": {
+          "num": "10006",
+          "name": "莲之净",
+          "icon": "https://g.166.net/assets/img/yys/serve/10012.png",
+          "server_region": "中国区-iOS",
+          "server_type": ""
+     },
+     "10013": {
+          "num": "10006",
+          "name": "桂之馥",
+          "icon": "https://g.166.net/assets/img/yys/serve/10013.png",
+          "server_region": "中国区-iOS",
+          "server_type": ""
+     },
+     "10014": {
+          "num": "10014",
+          "name": "相伴同行",
+          "icon": "https://g.166.net/assets/img/yys/serve/10014.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服1"
+     },
+     "10015": {
+          "num": "10014",
+          "name": "旧友新朋",
+          "icon": "https://g.166.net/assets/img/yys/serve/10015.png",
+          "server_region": "全平台",
+          "server_type": ""
+     },
+     "10016": {
+          "num": "10016",
+          "name": "深情厚谊",
+          "icon": "https://g.166.net/assets/img/yys/serve/10016.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服3"
+     },
+     "10017": {
+          "num": "10017",
+          "name": "相伴长情",
+          "icon": "https://g.166.net/assets/img/yys/serve/10017.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服4"
+     },
+     "10018": {
+          "num": "10018",
+          "name": "朝夕相伴",
+          "icon": "https://g.166.net/assets/img/yys/serve/10018.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服5"
+     },
+     "10019": {
+          "num": "10019",
+          "name": "携手共度",
+          "icon": "https://g.166.net/assets/img/yys/serve/10019.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服6"
+     },
+     "10020": {
+          "num": "10020",
+          "name": "举手相庆",
+          "icon": "https://g.166.net/assets/img/yys/serve/10020.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服7"
+     },
+     "10021": {
+          "num": "10021",
+          "name": "欢庆鼓舞",
+          "icon": "https://g.166.net/assets/img/yys/serve/10021.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服8"
+     },
+     "10022": {
+          "num": "10022",
+          "name": "追月逐兔",
+          "icon": "https://g.166.net/assets/img/yys/serve/10022.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服9"
+     },
+     "10023": {
+          "num": "10023",
+          "name": "依偎相守",
+          "icon": "https://g.166.net/assets/img/yys/serve/10023.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服10"
+     },
+     "10024": {
+          "num": "10024",
+          "name": "暖风春穗",
+          "icon": "https://g.166.net/assets/img/yys/serve/10024.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服11"
+     },
+     "10025": {
+          "num": "10025",
+          "name": "樱之忆",
+          "icon": "https://g.166.net/assets/img/yys/serve/10025.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服12"
+     },
+     "10026": {
+          "num": "10026",
+          "name": "鬼灯的冷彻",
+          "icon": "https://g.166.net/assets/img/yys/serve/10026.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服13"
+     },
+     "10027": {
+          "num": "10027",
+          "name": "初心未改",
+          "icon": "https://g.166.net/assets/img/yys/serve/10027.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服14"
+     },
+     "10028": {
+          "num": "10028",
+          "name": "狐之宴",
+          "icon": "https://g.166.net/assets/img/yys/serve/10028.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服15"
+     },
+     "10029": {
+          "num": "10029",
+          "name": "犬夜叉",
+          "icon": "https://g.166.net/assets/img/yys/serve/10029.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服16"
+     },
+     "10030": {
+          "num": "10030",
+          "name": "立秋夕烛",
+          "icon": "https://g.166.net/assets/img/yys/serve/10030.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服17"
+     },
+     "10031": {
+          "num": "10031",
+          "name": "枫之舞",
+          "icon": "https://g.166.net/assets/img/yys/serve/10031.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服18"
+     },
+     "10032": {
+          "num": "10032",
+          "name": "雪之萤",
+          "icon": "https://g.166.net/assets/img/yys/serve/10032.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服19"
+     },
+     "10033": {
+          "num": "10033",
+          "name": "游梦迷蝶",
+          "icon": "https://g.166.net/assets/img/yys/serve/10033.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服20"
+     },
+     "10034": {
+          "num": "10034",
+          "name": "桃映春馨",
+          "icon": "https://g.166.net/assets/img/yys/serve/10034.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服21"
+     },
+     "10035": {
+          "num": "10035",
+          "name": "竹风夏意",
+          "icon": "https://g.166.net/assets/img/yys/serve/10035.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服22"
+     },
+     "10036": {
+          "num": "10036",
+          "name": "一叶禅心",
+          "icon": "https://g.166.net/assets/img/yys/serve/10036.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服23"
+     },
+     "10037": {
+          "num": "10037",
+          "name": "夜火离歌",
+          "icon": "https://g.166.net/assets/img/yys/serve/10037.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服24"
+     },
+     "10038": {
+          "num": "10038",
+          "name": "晴空日和",
+          "icon": "https://ok.166.net/gameyw-misc/opd/squash/20190905/112216-jlft18nbyz.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服25"
+     },
+     "10039": {
+          "num": "10039",
+          "name": "瀞灵廷",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服26"
+     },
+     "10040": {
+          "num": "10040",
+          "name": "少时之约",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服27"
+     },
+     "10041": {
+          "num": "10041",
+          "name": "鸣麓逐浪",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服28"
+     },
+     "10042": {
+          "num": "10042",
+          "name": "八岐魅影",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服29"
+     },
+     "10043": {
+          "num": "10043",
+          "name": "稚羽萌心",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服30"
+     },
+     "10044": {
+          "num": "10044",
+          "name": "愿予必成",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服31"
+     },
+     "10045": {
+          "num": "10045",
+          "name": "渡世之风",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服32"
+     },
+     "10046": {
+          "num": "10046",
+          "name": "百鬼夜行",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服33"
+     },
+     "10047": {
+          "num": "10047",
+          "name": "鬼王之宴",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服34"
+     },
+     "10048": {
+          "num": "10048",
+          "name": "夏之风铃",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服35"
+     },
+     "10049": {
+          "num": "10049",
+          "name": "雅乐之邦",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服36"
+     },
+     "10050": {
+          "num": "10050",
+          "name": "四载平安",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服37"
+     },
+     "10051": {
+          "num": "10051",
+          "name": "永生之海",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服38"
+     },
+     "10052": {
+          "num": "10052",
+          "name": "森之王",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服39"
+     },
+     "10053": {
+          "num": "10053",
+          "name": "彼世之花",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服40"
+     },
+     "10054": {
+          "num": "10054",
+          "name": "鬼灭之刃",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服41"
+     },
+     "10055": {
+          "num": "10055",
+          "name": "春告之雪",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服42"
+     },
+     "10056": {
+          "num": "10056",
+          "name": "天上天下",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服43"
+     },
+     "10057": {
+          "num": "10057",
+          "name": "唯吾独尊",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服44"
+     },
+     "10058": {
+          "num": "10058",
+          "name": "旧时童梦",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服45"
+     },
+     "10059": {
+          "num": "10059",
+          "name": "轮回之庭",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服46"
+     },
+     "10060": {
+          "num": "10060",
+          "name": "绘世之卷",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服47"
+     },
+     "10061": {
+          "num": "10061",
+          "name": "真味如初",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服48"
+     },
+     "10062": {
+          "num": "10062",
+          "name": "相闻秋歌",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服49"
+     },
+     "10063": {
+          "num": "10063",
+          "name": "白玉银阙",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服50"
+     },
+     "10064": {
+          "num": "10064",
+          "name": "赤夜降临",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服51"
+     },
+     "10065": {
+          "num": "10065",
+          "name": "铃心踏焰",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服52"
+     },
+     "10066": {
+          "num": "10066",
+          "name": "念山行",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服53"
+     },
+     "10067": {
+          "num": "10067",
+          "name": "樱月相邀",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服54"
+     },
+     "10068": {
+          "num": "10068",
+          "name": "高天原",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服55"
+     },
+     "10069": {
+          "num": "10069",
+          "name": "夜摩天殿",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服56"
+     },
+     "10070": {
+          "num": "10070",
+          "name": "经霜之枫",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服57"
+     },
+     "10071": {
+          "num": "10071",
+          "name": "浮梦之境",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服58"
+     },
+     "10072": {
+          "num": "10072",
+          "name": "人间千年",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服59"
+     },
+     "10073": {
+          "num": "10073",
+          "name": "御香归",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服60"
+     },
+     "10074": {
+          "num": "10074",
+          "name": "四季生",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服61"
+     },
+     "10075": {
+          "num": "10075",
+          "name": "镜如明心",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服62"
+     },
+     "10076": {
+          "num": "10076",
+          "name": "今时月",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服63"
+     },
+     "10077": {
+          "num": "10077",
+          "name": "天罗地网",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服64"
+     },
+     "10078": {
+          "num": "10078",
+          "name": "真言之塔",
+          "icon": "https://img.166.net/gameyw-misc/opd/squash/20240416/111047-2dmhonalqu.png",
+          "server_region": "全平台",
+          "server_type": "全平台正式服65"
+     },
+     "10079": {
+          "num": "10079",
+          "name": "万事屋",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服66"
+     },
+     "10080": {
+          "num": "10080",
+          "name": "祈世之舞",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服67"
+     },
+     "10081": {
+          "num": "10081",
+          "name": "森遥乡",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服68"
+     },
+     "10082": {
+          "num": "10082",
+          "name": "结世缘",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服69"
+     },
+     "10083": {
+          "num": "10083",
+          "name": "乾坤行",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服70"
+     },
+     "10084": {
+          "num": "10084",
+          "name": "循光世",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服71"
+     },
+     "10085": {
+          "num": "10085",
+          "name": "破晓之樱",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服72"
+     },
+     "10086": {
+          "num": "10086",
+          "name": "灵狐愿",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服73"
+     },
+     "10087": {
+          "num": "10087",
+          "name": "庭中酌",
+          "icon": "g",
+          "server_region": "全平台",
+          "server_type": "全平台正式服74"
+     },
+     "10088": {
+          "num": "10088",
+          "name": "黄金爪",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服75"
+     },
+     "10089": {
+          "num": "10089",
+          "name": "鲛人之歌",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服76"
+     },
+     "10090": {
+          "num": "10090",
+          "name": "音起时",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服77"
+     },
+     "10091": {
+          "num": "10091",
+          "name": "神鲤生财",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服78"
+     },
+     "10092": {
+          "num": "10092",
+          "name": "雾山隐",
+          "icon": "",
+          "server_region": "全平台",
+          "server_type": "全平台正式服78"
+     },
+     "15001": {
+          "num": "15001",
+          "name": "秋之枫",
+          "icon": "https://g.166.net/assets/img/yys/serve/15001.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服1"
+     },
+     "15002": {
+          "num": "15002",
+          "name": "冬之雪",
+          "icon": "https://g.166.net/assets/img/yys/serve/15002.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服2"
+     },
+     "15003": {
+          "num": "15003",
+          "name": "网易-结伴同游",
+          "icon": "https://g.166.net/assets/img/yys/serve/15003.png",
+          "server_region": "网易-双平台",
+          "server_type": "网易-双平台2"
+     },
+     "15004": {
+          "num": "15004",
+          "name": "B站-两心无间",
+          "icon": "https://g.166.net/assets/img/yys/serve/15004.png",
+          "server_region": "全平台",
+          "server_type": "网易-双平台3"
+     },
+     "15005": {
+          "num": "15005",
+          "name": "网易-相伴相随",
+          "icon": "https://g.166.net/assets/img/yys/serve/15005.png",
+          "server_region": "网易-双平台",
+          "server_type": "网易-双平台4"
+     },
+     "15006": {
+          "num": "15006",
+          "name": "暮之霞",
+          "icon": "https://g.166.net/assets/img/yys/serve/15006.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服3"
+     },
+     "15007": {
+          "num": "15007",
+          "name": "网易-情比金坚",
+          "icon": "https://g.166.net/assets/img/yys/serve/15007.png",
+          "server_region": "网易-双平台",
+          "server_type": "网易-双平台5"
+     },
+     "15008": {
+          "num": "15008",
+          "name": "风之清",
+          "icon": "https://g.166.net/assets/img/yys/serve/15008.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服5"
+     },
+     "15009": {
+          "num": "15009",
+          "name": "梅之寒",
+          "icon": "https://g.166.net/assets/img/yys/serve/15009.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服4"
+     },
+     "15010": {
+          "num": "15005",
+          "name": "网易-形影不离",
+          "icon": "https://g.166.net/assets/img/yys/serve/15010.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15011": {
+          "num": "15007",
+          "name": "网易-同心一意",
+          "icon": "https://g.166.net/assets/img/yys/serve/15011.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15012": {
+          "num": "15004",
+          "name": "B站-亲密无间",
+          "icon": "https://g.166.net/assets/img/yys/serve/15012.png",
+          "server_region": "全平台",
+          "server_type": ""
+     },
+     "15014": {
+          "num": "15014",
+          "name": "雨之霁",
+          "icon": "https://g.166.net/assets/img/yys/serve/15014.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服7"
+     },
+     "15016": {
+          "num": "15007",
+          "name": "网易-相知相依",
+          "icon": "https://g.166.net/assets/img/yys/serve/15016.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15017": {
+          "num": "15024",
+          "name": "网易-心意相通",
+          "icon": "https://g.166.net/assets/img/yys/serve/15017.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15020": {
+          "num": "15024",
+          "name": "网易-永生之谜",
+          "icon": "https://g.166.net/assets/img/yys/serve/15020.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15021": {
+          "num": "15004",
+          "name": "B站-情深谊长",
+          "icon": "https://g.166.net/assets/img/yys/serve/15021.png",
+          "server_region": "全平台",
+          "server_type": ""
+     },
+     "15022": {
+          "num": "15005",
+          "name": "网易-缥缈之旅",
+          "icon": "https://g.166.net/assets/img/yys/serve/15022.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15023": {
+          "num": "15023",
+          "name": "雀之灵",
+          "icon": "https://g.166.net/assets/img/yys/serve/15023.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服9"
+     },
+     "15024": {
+          "num": "15024",
+          "name": "网易-遥远之忆",
+          "icon": "https://g.166.net/assets/img/yys/serve/15024.png",
+          "server_region": "网易-双平台",
+          "server_type": "网易-双平台16"
+     },
+     "15025": {
+          "num": "15024",
+          "name": "网易-孤高之心",
+          "icon": "https://g.166.net/assets/img/yys/serve/15025.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15026": {
+          "num": "15026",
+          "name": "桃之华",
+          "icon": "https://g.166.net/assets/img/yys/serve/15026.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服10"
+     },
+     "15027": {
+          "num": "15029",
+          "name": "网易-风雨同行",
+          "icon": "https://g.166.net/assets/img/yys/serve/15027.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15028": {
+          "num": "15028",
+          "name": "菊之逸",
+          "icon": "https://g.166.net/assets/img/yys/serve/15028.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服11"
+     },
+     "15029": {
+          "num": "15029",
+          "name": "网易-两情相悦",
+          "icon": "https://g.166.net/assets/img/yys/serve/15029.png",
+          "server_region": "网易-双平台",
+          "server_type": "网易-双平台19"
+     },
+     "15030": {
+          "num": "15029",
+          "name": "网易-春樱共赏",
+          "icon": "https://g.166.net/assets/img/yys/serve/15030.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15031": {
+          "num": "15031",
+          "name": "樱之华",
+          "icon": "https://g.166.net/assets/img/yys/serve/15031.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓正式服12"
+     },
+     "15032": {
+          "num": "15029",
+          "name": "网易-迷之暗影",
+          "icon": "https://g.166.net/assets/img/yys/serve/15032.png",
+          "server_region": "网易-双平台",
+          "server_type": ""
+     },
+     "15033": {
+          "num": "15004",
+          "name": "B站-情意相投",
+          "icon": "https://g.166.net/assets/img/yys/serve/15033.png",
+          "server_region": "全平台",
+          "server_type": ""
+     },
+     "15048": {
+          "num": "15048",
+          "name": "安卓体验服",
+          "icon": "https://g.166.net/assets/img/yys/serve/15048.png",
+          "server_region": "中国区-安卓",
+          "server_type": "安卓体验服"
+     },
+     "15049": {
+          "num": "15049",
+          "name": "抢先体验服",
+          "icon": "https://g.166.net/assets/img/yys/serve/15049.png",
+          "server_region": "网易-双平台",
+          "server_type": "抢先体验服"
+     },
+     "16001": {
+          "num": "16001",
+          "name": "海外加速区",
+          "icon": "https://g.166.net/assets/img/yys/serve/16001.png",
+          "server_region": "国际区",
+          "server_type": "国际服"
+     }
+}
