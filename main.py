@@ -16,9 +16,9 @@ parser.add_argument('--path_of_chrome', type=str, default=r'C:\Users\42436\Downl
 parser.add_argument('--path_of_chrome_driver', type=str, default=r'C:\Users\42436\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe')
 parser.add_argument('--uid', type=str, default='199e4c4d27b84b7097fec77a22b2a68a')
 # Modify the Following
-parser.add_argument('--saved_path', type=str, default=r'C:\Users\42436\Desktop\project\yys_crawler\20241208')
-parser.add_argument('--timestamp', type=str, default='1733707360735')
-parser.add_argument('--token', type=str, default='231E66A98FE4AB7976AA3584F8BAF544')
+parser.add_argument('--saved_path', type=str, default=r'C:\Users\42436\Desktop\project\yys_crawler\20241215')
+parser.add_argument('--timestamp', type=str, default='1734313494713')
+parser.add_argument('--token', type=str, default='689F381193D86730CFBFD07CCD17B4C7')
 
 # Load Configuration
 args = parser.parse_known_args()[0]
